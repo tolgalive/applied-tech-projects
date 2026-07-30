@@ -15,6 +15,6 @@ See `renders/` for still frames from the scene.
 
 ## Demo video
 
-🎬 *Video link coming soon* — a full render/animation walkthrough will be linked here once uploaded.
+🎬 [Watch the render/animation walkthrough on YouTube](https://youtu.be/fSBZru3hNJk)
 
 Built as part of a Murdoch University unit, ICT101 Introduction to 3D Graphics and Animation.
