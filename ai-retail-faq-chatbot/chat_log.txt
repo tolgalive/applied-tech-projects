@@ -1,0 +1,17 @@
+You (01:03): delivery
+Bot (01:03): Yes, we offer same-day delivery for local purchases.
+
+You (01:04): location
+Bot (01:04): We are located on the 2nd floor of Downtown Mall.
+
+You (01:04): return policy
+Bot (01:04): Items can be returned within 30 days with a valid receipt.
+
+You (01:04): return policy
+Bot (01:04): You've already asked this question. Would you like to ask something else?
+
+You (01:04): 
+Bot (01:04): Please type a question.
+
+You (01:04): 
+Bot (01:04): Please type a question.

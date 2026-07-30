@@ -1,0 +1,46 @@
+[
+  {
+    "keywords": ["store hours", "open", "opening hours"],
+    "response": "Our store is open from 9 AM to 9 PM every day."
+  },
+  {
+    "keywords": ["store closing", "close", "closing time"],
+    "response": "Our store closes at 9 PM."
+  },
+  {
+    "keywords": ["return policy", "returns", "refund"],
+    "response": "Items can be returned within 30 days with a valid receipt."
+  },
+  {
+    "keywords": ["location", "where are you", "address"],
+    "response": "We are located on the 2nd floor of Downtown Mall."
+  },
+  {
+    "keywords": ["parking", "car park", "free parking"],
+    "response": "Yes, free customer parking is available."
+  },
+  {
+    "keywords": ["credit cards","credit card","debit card", "visa", "mastercard"],
+    "response": "We accept all major credit and debit cards."
+  },
+  {
+    "keywords": ["discounts", "offers", "sales", "promotion"],
+    "response": "We offer seasonal discounts and a loyalty program."
+  },
+  {
+    "keywords": ["in stock", "available", "have this", "check stock"],
+    "response": "Please check with a staff member or use our product scanner."
+  },
+  {
+    "keywords": ["delivery", "shipping", "home delivery"],
+    "response": "Yes, we offer same-day delivery for local purchases."
+  },
+  {
+    "keywords": ["exchange", "swap", "change item"],
+    "response": "You may exchange items within 14 days with the receipt."
+  },
+  {
+    "keywords": ["gift cards","gift card","gift", "gift voucher", "gift certificate"],
+    "response": "We offer gift cards starting from AED 50."
+  }
+]
