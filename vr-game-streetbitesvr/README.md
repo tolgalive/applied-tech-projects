@@ -13,6 +13,6 @@ A VR game built in Unity with the XR Interaction Toolkit: a food-truck/kitchen-t
 
 ## Demo video
 
-🎬 *Video link coming soon* — a gameplay/promo video will be linked here once uploaded.
+🎬 [Watch the gameplay/promo video on YouTube](https://youtu.be/GmHMd0Ywifc)
 
 Part of a Murdoch University unit, ICT288 Virtual Realities and Games Software Design.
